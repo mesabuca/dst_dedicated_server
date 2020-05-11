@@ -1,0 +1,48 @@
+Adds a backpack, amulet and compass slot to the game. Plus adds space for other mod's slots if you want it to.
+
+I got permission from xVars (the original author) to do this because his mod made it a bit tough to resize the slots bar in your own mod. So instead of doing that I made an API Edition where you can configure the number of slots you want to add so EES chages the ui size instead of your mod!
+
+Right now it's been made to work with my other mod but if you want the option to add more slots for your custom mod just comment here.
+
+Options:
+None - Plain old EES
+1 - Adds space for a mod which adds 1 extra slot. E.g My Apothecary Medicamento or the Archery Mod by ZupaleX.
+2 - Adds space for 2 extra slots. E.g Apothecary and Archery at the same time!
+
+[h1]Patch List[/h1]
+v1.0 - Alpha Release
+v1.1 - Patched to support [url=http://steamcommunity.com/games/322330/announcements/detail/226637980085320711]Hotfix 123591[/url]
+v1.2 - Fixed the Interface not properly 'rebuild' when loading to a previously saved game.
+v1.3 - Patched to support [url=http://steamcommunity.com/games/322330/announcements/detail/226638525917068347]Hotfix 124021[/url]
+v1.4 - Rewrite the structure of the mod to run without using full files. Also, new preview icon :D
+v1.5 - Fixed a bug where the client's backpack items are not counted/checked when building something.
+v1.5.1 - Fixed a clashing bug.
+v1.5.2 - Updated image/tex file (possible cause for some people crashing).
+v1.6 - Compatibility patch (thanks to star)
+v2.0 - API Edition
+v2.0.1 - Added support for an additional slot.
+v2.1.0 - Added a compass slot. Disabled by default.
+v2.1.1 - Updated the artwork because it was bugging me.
+v2.1.2 - Bug Fix: Read notes.
+v2.2 - [strike]Added support for 63 total slots. Thanks ZupaleX[/strike]
+v2.2.1 - Reverted changes. You can only have a maximum of 7 equip slots or the game will crash. Please keep that in mind before enabling the compass slot or use [url=http://steamcommunity.com/sharedfiles/filedetails/?id=514780414]this mod[/url].
+v2.3.0 - Fixed the ui glitch that was occuring as a result of the new Inspect Self button.
+
+
+[h1]Credits[/h1]
+[list]
+[*]Fontonkonbonmon (original)
+[*]tehMugwump
+[*]Afro1967 (RoG)
+[*]Darklokey276
+[*]Vanguard Prime
+[*]I am Zero One
+[*]outseeker (au)
+[*]Marco
+[*]Snowy
+[*]xVars (porting to DST)
+[/list]
+
+[h1]Source[/h1]
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=277517714]Backpack and Amulet Slots[/url]
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=375850593]Extra Equip Slots[/url]

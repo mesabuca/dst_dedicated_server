@@ -1,0 +1,6 @@
+Never Perish Icebox
+
+Version 1.0.0
+- Based on the never perish icebox mod from Eyres1
+- Fixed compatibilities
+- Fixed compatibilities errors
